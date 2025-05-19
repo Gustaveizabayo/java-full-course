@@ -1,1 +1,1 @@
-# java-full-course
+# java-projects-project
